@@ -1,6 +1,6 @@
 {
 	"head": {
-		"title": "Gatsby's Homepage",
+		"title": "Home Page",
 		"description": "Author:Gatsby,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
@@ -31,7 +31,7 @@
 				"text": "About"
 			},
 			"half_first": {
-				"href": "a347807131@gmail.com",
+				"href": "mailto:a347807131@gmail.com",
 				"icon": "email",
 				"text": "Contact me"
 			},
