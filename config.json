@@ -48,13 +48,13 @@
 				"text": "Github"
 			},
 			"quarter_third": {
-				"href": "https://matery.gatsby.fun",
-				"icon": "bokeyuan",
-				"text": "Matery"
+				"href": "tencent://message/?uin=947124233&Site=Sambow&Menu=yes",
+				"icon": "qq",
+				"text": "QQ"
 			},
 			"quarter_fourth": {
 				"href": "javascript:;",
-				"icon": "other",
+				"icon": "qita",
 				"text": "Other"
 			}
 		}

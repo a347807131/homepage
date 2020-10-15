@@ -11,7 +11,18 @@ body {
 	padding: 0;
 	border: 0;
 }
-
+.icon {
+	display: block;
+	width: 1.5em;
+	height: 1.5em;
+	margin: 0 auto;
+	fill: currentColor;
+	font-family: 'iconfont' !important;
+	font-size: inherit;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
 body {
 	font-family: 'Comic Sans MS', 'Helvetica Neue', 'Microsoft Yahei',
 		-apple-system, sans-serif !important;
