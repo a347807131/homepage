@@ -48,9 +48,9 @@
 				"text": "Github"
 			},
 			"quarter_third": {
-				"href": "tencent://message/?uin=947124233&Site=Sambow&Menu=yes",
-				"icon": "qq",
-				"text": "QQ"
+				"href": "https://music.163.com/#/user/home?id=357760531",
+				"icon": "netease",
+				"text": "Netease"
 			},
 			"quarter_fourth": {
 				"href": "javascript:;",
