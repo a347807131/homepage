@@ -15,7 +15,7 @@
 		"name": "You see, I'm Gatsby.",
 		"signature": "Code & Input & Output",
 		"avatar": {
-			"link": "https://www.gravatar.com/avatar/5c03971734d1508e26c331f64f11e6d3?s=128",
+			"link": "https://cdn.jsdelivr.net/gh/a347807131/cdn/images/20210816050658.png",
 			"height": "80",
 			"width": "80"
 		},
@@ -26,12 +26,12 @@
 				"text": "Blog"
 			},
 			"whole_second": {
-				"href": "http://news.aexzero.xyz",
+				"href": "https://bupteducn-my.sharepoint.com/:f:/g/personal/civin_bupt_edu_cn/EojRreQAtqRFp3pay1ZitXMBtulv0daOUiSvRQfsxmhG7g?e=eiVCst",
 				"icon": "xiaolian",
-				"text": "Newser"
+				"text": "Onedrive"
 			},
 			"half_first": {
-				"href": "mailto:a347807131@gmail.com",
+				"href": "mailto:civin@bupt.cn",
 				"icon": "email",
 				"text": "Contact me"
 			},
