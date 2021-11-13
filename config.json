@@ -31,9 +31,9 @@
 				"text": "Onedrive"
 			},
 			"half_first": {
-				"href": "mailto:civin@bupt.cn",
-				"icon": "email",
-				"text": "Contact me"
+				"href": "https://bupteducn-my.sharepoint.com/:f:/g/personal/civin_bupt_edu_cn/EojRreQAtqRFp3pay1ZitXMBtulv0daOUiSvRQfsxmhG7g?e=eiVCst",
+				"icon": "xiaolian",
+				"text": "Onedrive"
 			},
 			"quarter_first": {
 				"href": "assets/wechat.png",
@@ -48,9 +48,9 @@
 				"text": "Github"
 			},
 			"quarter_third": {
-				"href": "https://music.163.com/#/user/home?id=357760531",
-				"icon": "netease",
-				"text": "Netease"
+				"href": "hmailto:civin@bupt.cn",
+				"icon": "email",
+				"text": "Contact Me"
 			},
 			"quarter_fourth": {
 				"href": "javascript:;",
