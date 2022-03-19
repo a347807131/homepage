@@ -6,8 +6,8 @@
 	},
 	"intro": {
 		"title": "Jay Gatsby",
-		"subtitle": "you're worth the whole damn bunch put together.",
-		"enter": "enter",
+		"subtitle": "Yes, indeed.",
+		"enter": "Enter",
 		"supportAuthor": true,
 		"background": true
 	},
@@ -21,7 +21,7 @@
 		},
 		"ul": {
 			"whole_first": {
-				"href": "https://bg-g.vercel.app/",
+				"href": "https://blog.whoisyourdaddy.xyz/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
