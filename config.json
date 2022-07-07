@@ -15,7 +15,7 @@
 		"name": "You see, I'm Gatsby.",
 		"signature": "Code & Input & Output",
 		"avatar": {
-			"link": "https://cdn.jsdelivr.net/gh/a347807131/cdn/images/20210816050658.png",
+			"link": "assets/avatar.png",
 			"height": "80",
 			"width": "80"
 		},
