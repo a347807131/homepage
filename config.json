@@ -15,13 +15,13 @@
 		"name": "You see, I'm Gatsby.",
 		"signature": "Code & Input & Output",
 		"avatar": {
-			"link": "assets/avatar.png",
+			"link": "/assets/avatar.png",
 			"height": "80",
 			"width": "80"
 		},
 		"ul": {
 			"whole_first": {
-				"href": "https://blog.whoisyourdaddy.xyz/",
+				"href": "https://blog.gatsby.fun",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
@@ -36,7 +36,7 @@
 				"text": "Onedrive"
 			},
 			"quarter_first": {
-				"href": "assets/wechat.png",
+				"href": "/assets/wechat.png",
 				"icon": "wechat",
 				"height": "95",
 				"width": "95",
