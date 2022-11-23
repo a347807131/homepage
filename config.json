@@ -26,14 +26,14 @@
 				"text": "Blog"
 			},
 			"whole_second": {
+				"href": "http://jhd.gatsby.fun",
+				"icon": "onedrive",
+				"text": "Jhd"
+			},
+			"half_first": {
 				"href": "https://bupteducn-my.sharepoint.com/:f:/g/personal/civin_bupt_edu_cn/EojRreQAtqRFp3pay1ZitXMBtulv0daOUiSvRQfsxmhG7g?e=eiVCst",
 				"icon": "onedrive",
 				"text": "Onedrive"
-			},
-			"half_first": {
-				"href": "https://jhd.gatsby.fun",
-				"icon": "xiaolian",
-				"text": "Jhd"
 			},
 			"quarter_first": {
 				"href": "/assets/wechat.png",
