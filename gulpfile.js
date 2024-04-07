@@ -9,8 +9,6 @@ const babel = require('gulp-babel')
 const autoprefixer = require('gulp-autoprefixer')
 const connect = require('gulp-connect')
 const pug = require('gulp-pug')
-const sass = require('gulp-sass')
-sass.compiler = require('node-sass')
 
 const config = require('./config.json')
 
@@ -20,8 +18,7 @@ gulp.task('clean', function () {
 
 gulp.task('css', function () {
 	return gulp
-		.src('./src/css/*.scss')
-		.pipe(sass().on('error', sass.logError))
+		.src('./src/css/*.css')
 		.pipe(minifycss({ compatibility: 'ie8' }))
 		.pipe(autoprefixer({ browsers: ['last 2 version'] }))
 		.pipe(cssnano({ reduceIdents: false }))
